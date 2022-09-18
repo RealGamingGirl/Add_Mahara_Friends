@@ -1,5 +1,6 @@
 # Windows
 Install Python from `https://www.python.org/downloads/`
+install selenium `pip install selenium`
 Install Firefox Browser
 move the `geckodriver.exe` to `C:\Geckodriver\`
 run the script with `python "./main.py"` in your terminal
@@ -9,6 +10,7 @@ Install python
 Arch = `pacman -S python`
 Debian = `apt install python`
 Download the Gecko Driver for Linux from `https://github.com/mozilla/geckodriver/releases`
+install selenium `pip install selenium`
 change the `path` variable in the `./main.py` script to the path of your geckodriver
 Install Firefox Browser
 run the script with `python "./main.py"`
