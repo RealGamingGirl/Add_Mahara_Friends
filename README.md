@@ -11,4 +11,4 @@ run the script with `python "./main.py"`
 
 # Additional Information
 In the IgnoreList you can add ID's to be ignored in the script. Add each ID on a new line in the `IgnoreList.txt`
-In the Phrases list you can add the phrases which are send when sending a friend request. The script will select a random line, using it's content as the message that's send as the reason why you want to add the other person.
+In the Phrases list you can add the phrases which are send when sending a friend request. The script will select a random line, using it's content as the message that's send as the reason why you want to add the other person. Add each Phrase on a new line in the `Phrases.txt` file.
