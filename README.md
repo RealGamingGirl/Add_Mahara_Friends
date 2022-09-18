@@ -3,7 +3,7 @@ Install Python from `https://www.python.org/downloads/`
 install selenium `pip install selenium`
 Install Firefox Browser
 move the `geckodriver.exe` to `C:\Geckodriver\`
-run the script with `python "./main.py"` in your terminal
+run the script with `python "YOURPATH/main.py"` in your terminal
 
 # Linux
 Install python
@@ -13,7 +13,7 @@ Download the Gecko Driver for Linux from `https://github.com/mozilla/geckodriver
 install selenium `pip install selenium`
 change the `path` variable in the `./main.py` script to the path of your geckodriver
 Install Firefox Browser
-run the script with `python "./main.py"`
+run the script with `python "YOURPATH/main.py"`
 
 # Additional Information
 In the IgnoreList you can add ID's to be ignored in the script. Add each ID on a new line in the `IgnoreList.txt`
