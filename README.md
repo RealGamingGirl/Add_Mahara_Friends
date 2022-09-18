@@ -1,11 +1,14 @@
 # Windows
-For Windows you can use the AddFriends.exe
+Install Python from `https://www.python.org/downloads/`
+Install Firefox Browser
+run the script with `python "./main.py"`
 
 # Linux
 Install python
 Arch = `pacman -S python`
 Debian = `apt install python`
 Download the Gecko Driver for Linux from `https://github.com/mozilla/geckodriver/releases`
+Install Firefox Browser
 Extract the geckodriver executable into the same directory as the main.py
 run the script with `python "./main.py"`
 
